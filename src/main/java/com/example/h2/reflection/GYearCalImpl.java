@@ -7,7 +7,7 @@ package com.example.h2.reflection;
  * @author H4R5H
  *
  */
-public class Gsec10YearCalImpl implements ReflectionInterface {
+public class GYearCalImpl implements ReflectionInterface {
 
 	/* (non-Javadoc)
 	 * @see com.example.h2.reflection.ReflectionInterface#getGraphData()
